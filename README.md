@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aditya Jain(@adityajain1109)
-- 👀 I’m interested in Cyber-Security and Software Development
-- 🌱 I’m currently learning Android App Development and Penetration Testing
+- 🌱 I’m currently learning Android App Development
 - 📫 How to reach me  - adityajain110902@gmail.com
 
 <!---
